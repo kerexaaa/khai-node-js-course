@@ -1,0 +1,20 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/kerexaaa/khai-node-js-course#readme",
+  "bugs": {
+    "url": "https://github.com/kerexaaa/khai-node-js-course/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerexaaa/khai-node-js-course.git"
+  },
+  "license": "ISC",
+  "author": "ishoweed",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
