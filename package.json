@@ -1,7 +1,7 @@
 {
   "name": "lab2",
   "version": "1.0.0",
-  "description": "",
+  "description": "\"\"",
   "homepage": "https://github.com/kerexaaa/khai-node-js-course#readme",
   "bugs": {
     "url": "https://github.com/kerexaaa/khai-node-js-course/issues"
@@ -16,5 +16,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
   }
 }
